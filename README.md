@@ -10,7 +10,7 @@ Don't forget to follow and give stars!
 I leave a few links here so you can contact me :
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/zinnetyazicii/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/zinnetyazicii/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/zinnetyazici/)
 
 
 # 🛠️ Technologies & Tools
