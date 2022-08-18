@@ -11,9 +11,6 @@ I leave a few links here so you can contact me :
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/zinnetyazicii/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/zinnetyazici/)
-a href="https://www.hackerrank.com/myelman17" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="myelman17" height="30" width="40" /></a>
 
 
 
